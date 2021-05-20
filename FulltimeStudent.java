@@ -2,12 +2,6 @@ package University;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/*
- * Student Name: Younes Boutaleb
- * Lab Professor: Dr. James Mwangi
- * Due Date: April 4, 2021
- * Modified: April 11, 2021
- */
 /**
  * This class inherits students's common information and reads the special properties of Full time students
  * and insert them in the list of students table
