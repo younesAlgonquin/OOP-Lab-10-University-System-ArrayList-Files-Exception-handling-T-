@@ -2,12 +2,6 @@ package University;
 
 import java.util.Scanner;
 
-/*
- * Student Name: Younes Boutaleb
- * Lab Professor: Dr. James Mwangi
- * Due Date: April 4, 2021
- * Modified: April 11, 2021
- */
 /**
  * This is an interface that will be implemented by class Student. it declares three abstract methods
  *@author Younes
