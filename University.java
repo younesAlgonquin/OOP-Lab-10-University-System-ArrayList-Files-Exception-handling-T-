@@ -7,13 +7,6 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-
-/*
- * Student Name: Younes Boutaleb
- * Lab Professor: Dr. James Mwangi
- * Due Date: April 4, 2021
- * Modified: April 11, 2021
- */
 /**
  * This class stores the students objects in an array of references. 
  * According to their type it calls the appropriate readInfo and printInfo methods   
